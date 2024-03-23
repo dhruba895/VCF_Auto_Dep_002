@@ -1,0 +1,10 @@
+Automated VMware Cloud Foundation Lab Deployment
+Table of Contents
+
+Description:
+"Automated Lab Deployment Scripts" (such as here, here, here, here, here and here), this script makes it very easy for anyone to deploy a "basic" VMware Cloud Foundation (VCF) in a Nested Lab environment for learning and educational purposes. All required VMware components (ESXi and Cloud Builder VMs) are automatically deployed and configured to allow for VCF to be deployed and configured using VMware Cloud Builder. For more information, you can refer to the official VMware Cloud Foundation documentation.
+
+Below is a diagram of what is deployed as part of the solution and you simply need to have an existing vSphere environment running that is managed by vCenter Server and with enough resources (CPU, Memory and Storage) to deploy this "Nested" lab. For VCF enablement (post-deployment operation), please have a look at the Sample Execution section below.
+
+You are now ready to get your VCF on! 😁
+
